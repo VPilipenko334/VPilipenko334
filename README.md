@@ -7,6 +7,21 @@ Software Engineer with experience building web applications using React, Redux, 
 
 Outside of coding, I like to swim, hike, work out and work on outside projects, such as building a website for my swim business. 
 
+### Connect with me
+
+<a href="https://www.linkedin.com/in/veronikapilipenko">
+  <img width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://vpilipenko334.github.io/">
+  <img width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto: veronika.pilipenko@gmail.com">
+  <img width="40px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png">
+</a>
+<br />
+
 ### Coding Languages & Tools
 <div align="center">
 <img align="left" alt="Ruby" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" />
