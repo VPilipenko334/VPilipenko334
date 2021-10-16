@@ -1,13 +1,21 @@
-<h1 align="center">🧿&nbsp;🤠&nbsp;🐸&nbsp;🚀&nbsp;&nbsp;Hi there, I'm Veronika!&nbsp;🐯&nbsp;🤎&nbsp;💰‍&nbsp;🦈</h1>
+<h1 align="center">Hi there, I'm Veronika!</h1>
 
 
-### About me
+### About me:
 
-Software Engineer with experience building web applications using React, Redux, Javascript, Ruby on Rails, AWS, Node.js, Express.js, MongoDB, and SQL.
+I am a software engineer with experience building web applications using React, Redux, Javascript, Ruby on Rails, AWS, Node.js, Express.js, MongoDB, and SQL.
 
-Outside of coding, I like to swim, hike, work out and work on outside projects, such as building a website for my swim business. 
+Outside of coding, I like to swim, hike, and work on personal projects, such as building my swim business. I have a puppy named Mishka. That's her! ➡️
 
-### Connect with me
+<img align="right" alt="mishka" src="https://user-images.githubusercontent.com/63820576/137601786-01cd4291-e5c2-42df-9d2e-125eeb814d17.png" width="315" height="300" />
+
+### Personal Projects:
+
+* [InAFlash](https://inaflash.herokuapp.com/)
+* [CoffeeHouse Card Catch](https://vpilipenko334.github.io/coffeehouse-card-catch/) 
+* [GreenMarket](https://the-greenmarket.herokuapp.com/#/) 
+
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/veronikapilipenko">
   <img width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -21,8 +29,9 @@ Outside of coding, I like to swim, hike, work out and work on outside projects, 
   <img width="40px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png">
 </a>
 <br />
+<br/>
 
-### Coding Languages & Tools
+### Coding Languages & Tools:
 <div align="center">
 <img align="left" alt="Ruby" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" />
 
@@ -49,7 +58,7 @@ Outside of coding, I like to swim, hike, work out and work on outside projects, 
  <br />
  <br />
 
-### Github Status
+### Github Stats:
 
 <img align="left" height='165px' width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpilipenko334&layout=compact&theme=midnight-purple" />
 
