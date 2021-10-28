@@ -7,7 +7,7 @@ I am a software engineer with experience building web applications using React, 
 
 Outside of coding, I like to swim, hike, and work on personal projects, such as building my swim business. I have a puppy named Mishka. That's her! ➡️
 
-<img align="right" alt="mishka" src="https://user-images.githubusercontent.com/63820576/137601786-01cd4291-e5c2-42df-9d2e-125eeb814d17.png" width="315" height="300" />
+<img align="right" alt="mishka" src="https://user-images.githubusercontent.com/63820576/137601786-01cd4291-e5c2-42df-9d2e-125eeb814d17.png" width="275" height="275" />
 
 ### Personal Projects:
 
