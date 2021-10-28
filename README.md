@@ -60,6 +60,6 @@ Outside of coding, I like to swim, hike, and work on personal projects, such as 
 
 ### Github Stats:
 
-<img align="left" height='150px' width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpilipenko334&layout=compact&theme=midnight-purple" />
+<img align="left" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpilipenko334&layout=compact&theme=midnight-purple" />
 
-<img align="right" height='150px' width='400px' src="https://github-readme-stats.vercel.app/api?username=vpilipenko334&show_icons=true&theme=midnight-purple"/>
+<img align="right" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api?username=vpilipenko334&show_icons=true&theme=midnight-purple"/>
