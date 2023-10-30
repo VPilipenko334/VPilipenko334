@@ -9,12 +9,6 @@ Outside of coding, I like to swim, hike, and work on personal projects, such as 
 
 <img align="right" alt="mishka" src="https://user-images.githubusercontent.com/63820576/137601786-01cd4291-e5c2-42df-9d2e-125eeb814d17.png" width="275" height="275" />
 
-### Personal Projects:
-
-* [InAFlash](https://inaflash.herokuapp.com/)
-* [CoffeeHouse Card Catch](https://vpilipenko334.github.io/coffeehouse-card-catch/) 
-* [GreenMarket](https://the-greenmarket.herokuapp.com/#/) 
-
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/veronikapilipenko">
